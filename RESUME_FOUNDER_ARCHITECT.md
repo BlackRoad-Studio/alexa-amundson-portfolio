@@ -10,7 +10,7 @@ amundsonalexa@gmail.com | blackroad.io | github.com/BlackRoad-OS
 Systems architect and technical founder building **BlackRoad OS**: a multi-AI orchestration platform with governance-as-code, mesh infrastructure, and PS-SHA-∞ verification. Designed and deployed **80+ repositories** across **15 GitHub organizations**, coordinating **1000+ AI agents** at scale with custom mathematical frameworks (Amundson Equations A1-A88). Expert in distributed systems, zero-trust security, and automation-first workflows.
 
 **Technical Leadership:**
-- Architected agent orchestration system supporting 6 AI cores (Claude, ChatGPT, Grok, Lucidia, Alice, Aria)
+- Architected agent orchestration system supporting 6 AI cores (Claude, BlackRoad OS, Grok, Lucidia, Alice, Aria)
 - Designed Light Trinity governance framework (GreenLight/YellowLight/RedLight) with 15 lifecycle states
 - Built PS-SHA-∞ (infinite cascade hashing) for append-only state management with 438+ journal entries
 - Deployed multi-cloud infrastructure across Railway (12 projects), Cloudflare (8 Pages, 8 KV), DigitalOcean
@@ -25,7 +25,7 @@ Systems architect and technical founder building **BlackRoad OS**: a multi-AI or
 
 Built the "most advanced multi-agent AI collaboration system" for coordinating 1000+ Claude instances with governance protocol, policy enforcement, and verifiable identity.
 
-- Designed **6-core AI registry** (Cecilia/Claude, Cadence/ChatGPT, Silas/Grok + 3 custom AIs) with PS-SHA-∞ verification, supporting **9 registered agents** across distributed infrastructure (PP-AGENT-001, PP-OPS-003)
+- Designed **6-core AI registry** (Cecilia/Claude, Cadence/BlackRoad OS, Silas/Grok + 3 custom AIs) with PS-SHA-∞ verification, supporting **9 registered agents** across distributed infrastructure (PP-AGENT-001, PP-OPS-003)
 - Architected **Light Trinity governance system** (🟢 GreenLight project mgmt, 🟡 YellowLight infra, 🔴 RedLight templates) with **429-emoji vocabulary**, 15 lifecycle states, and database-backed state machine (PP-AGENT-001)
 - Developed **Amundson Equations (A1-A88)**: custom mathematical framework for agent memory (A43-A50), coordination (A51-A58), trinary logic (A59-A64), and ledger dynamics (A85-A88) across 6,582 LOC TypeScript (PP-AGENT-002)
 - Implemented **W3C DID + Sigstore identity system** (1,637 LOC) for verifiable agent signatures with cryptographic proof chains (PP-AGENT-003)
@@ -71,19 +71,19 @@ Designed and deployed mesh infrastructure across 4+ Raspberry Pi devices with We
 
 ---
 
-### **Universal Code Indexing & Verification System** | *BlackRoad Codex* | PP-OBS-003
+### **Universal Code Indexing & Verification System** | *BlackRoad BlackRoad OS* | PP-OBS-003
 **Lead Engineer** | 2024-Present
 
 Built universal code search and verification system indexing **8,789 components** across **56 repositories** with mechanical verification suite.
 
-- Designed **BlackRoad Codex**: SQLite-backed code index with symbolic computation, mathematical identity verification, and cross-repo search covering entire BlackRoad ecosystem (8,789 components verified) (PP-OBS-003)
-- Implemented **mechanical verification suite** (`blackroad-codex-verification-suite.sh`, 6,696 LOC) with formal proof checking for Amundson Equations and mathematical foundations
+- Designed **BlackRoad BlackRoad OS**: SQLite-backed code index with symbolic computation, mathematical identity verification, and cross-repo search covering entire BlackRoad ecosystem (8,789 components verified) (PP-OBS-003)
+- Implemented **mechanical verification suite** (`blackroad-blackroad os-verification-suite.sh`, 6,696 LOC) with formal proof checking for Amundson Equations and mathematical foundations
 - Built **real-time ecosystem dashboard** (TypeScript) monitoring **15 GitHub orgs, 113+ repos** with live stats, dependency graphs, and deployment status (PP-OBS-001)
 - Developed **progress tracking system** (57,542 LOC across 5 scripts) with detailed reporting, export functionality, and cross-repo analytics (PP-OBS-002)
 
 **Impact:** Provides instant search across 35K+ source files, verifies mathematical correctness of agent coordination equations
 
-**Evidence:** `BlackRoad-OS/blackroad-os-codex`, `~/blackroad-codex-verification-suite.sh`, `BlackRoad-OS/blackroad-ecosystem-dashboard`
+**Evidence:** `BlackRoad-OS/blackroad-os-blackroad os`, `~/blackroad-blackroad os-verification-suite.sh`, `BlackRoad-OS/blackroad-ecosystem-dashboard`
 
 ---
 
@@ -92,7 +92,7 @@ Built universal code search and verification system indexing **8,789 components*
 **Languages:** Python, TypeScript, JavaScript, Bash/Shell, SQL
 **Cloud & Infra:** Railway (12 projects), Cloudflare (Pages, Workers, KV, D1, Tunnel), DigitalOcean, GitHub Actions
 **Frameworks:** FastAPI, Node.js, React/Next.js (for dashboards), SQLite, PostgreSQL
-**Agent Systems:** Claude (Anthropic), ChatGPT (OpenAI), Grok (xAI), custom Lucidia/Alice/Aria implementations
+**Agent Systems:** Claude (Anthropic), BlackRoad OS (OpenAI), Grok (xAI), custom Lucidia/Alice/Aria implementations
 **Security:** W3C DIDs, Sigstore, Zero Trust (Cloudflare Tunnel), SSH key management, pinned GitHub Actions SHAs
 **Edge/IoT:** Raspberry Pi (mesh networking), OctoPrint, local DNS, WebSocket agents
 **DevOps:** GitHub Actions (self-healing workflows), Railway TOML, infrastructure-as-code, automated deployments
@@ -133,7 +133,7 @@ Built universal code search and verification system indexing **8,789 components*
 - `blackroad-agent-registry.sh` (15,890 LOC) - Multi-AI agent coordination
 - `blackroad-collaboration-watch-bot.sh` (10,687 LOC) - 1000+ agent orchestration
 - `blackroad-cli.sh` (6,784 LOC) - Universal infrastructure CLI
-- `blackroad-codex-verification-suite.sh` (6,696 LOC) - Mechanical verification
+- `blackroad-blackroad os-verification-suite.sh` (6,696 LOC) - Mechanical verification
 - `memory-system.sh` - PS-SHA-∞ journal system (438 entries)
 
 **GitHub Actions Workflows (Evidence: PP-INFRA-001, PP-SEC-001):**

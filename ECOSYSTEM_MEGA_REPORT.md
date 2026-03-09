@@ -101,10 +101,10 @@ find ~/BlackRoad-Operating-System -type f \( -name "*.py" -o -name "*.ts" -o -na
 - **Description:** "Real-time monitoring dashboard for the entire BlackRoad ecosystem - 15 orgs, 113+ repos, live stats"
 - **Live:** https://5d7fe908.blackroad-monitoring.pages.dev
 
-### **4. blackroad-os-codex** (Universal Code Index)
+### **4. blackroad-os-blackroad os** (Universal Code Index)
 - **Updated:** 2025-12-24
-- **Description:** "BlackRoad Codex - Universal code indexing, search, and verification system. 8,789 components indexed across 56 repositories."
-- **Evidence:** Verification suite at ~/blackroad-codex-verification-suite.sh (6,696 LOC)
+- **Description:** "BlackRoad BlackRoad OS - Universal code indexing, search, and verification system. 8,789 components indexed across 56 repositories."
+- **Evidence:** Verification suite at ~/blackroad-blackroad os-verification-suite.sh (6,696 LOC)
 
 ### **5. alice** (AI Agent Portfolio)
 - **Updated:** 2025-12-24
@@ -168,7 +168,7 @@ cat ~/.blackroad/memory/journals/master-journal.jsonl | \
 | AI Core | Instances | Agents |
 |---------|-----------|---------|
 | **Cecilia (Claude)** | 12 | cecilia-∞, cecilia-bot-deployment, cecilia-collab-revolution, etc. |
-| **Cadence (ChatGPT)** | 1 | cadence-deployment-0686df46 |
+| **Cadence (BlackRoad OS)** | 1 | cadence-deployment-0686df46 |
 | **Silas (Grok)** | 1 | silas-architect-f32ea4a0 |
 | **Lucidia** | 1 | lucidia-guardian-a1f93114 |
 | **Alice** | 2 | alice-analyst-70a1e283, alice-migration-architect-59fcadf5 |
@@ -210,7 +210,7 @@ cat ~/.blackroad/memory/journals/master-journal.jsonl | \
 - 16 DNS zones (blackroad.io, lucidia.earth, subdomains)
 
 **DigitalOcean:**
-- 1 droplet (159.65.43.12, codex-infinity)
+- 1 droplet (159.65.43.12, blackroad os-infinity)
 
 **Edge Compute:**
 - 4 Raspberry Pi nodes (lucidia @ 192.168.4.38, alice, aria, octavia @ 192.168.4.74)
@@ -359,7 +359,7 @@ cat ~/.blackroad/memory/journals/master-journal.jsonl | \
 > "Deployed and managed **79 Cloudflare projects** serving global traffic, **12 Railway services**, and **4 Raspberry Pi edge nodes**, achieving **$0/month cloud costs** through optimization"
 
 **For "AI/ML" claims:**
-> "Coordinated **20 AI agents** across **6 LLM cores** (12 Claude instances, ChatGPT, Grok, + 3 autonomous custom AIs) with PS-SHA-∞ cryptographic verification and policy enforcement"
+> "Coordinated **20 AI agents** across **6 LLM cores** (12 Claude instances, BlackRoad OS, Grok, + 3 autonomous custom AIs) with PS-SHA-∞ cryptographic verification and policy enforcement"
 
 **For "Open Source" claims:**
 > "Maintained **43 public repositories** with comprehensive documentation (73% HTML coverage) and **8,789 indexed components** across ecosystem"

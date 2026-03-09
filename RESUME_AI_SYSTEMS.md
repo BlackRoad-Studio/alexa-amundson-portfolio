@@ -7,13 +7,13 @@ amundsonalexa@gmail.com | github.com/BlackRoad-OS | blackroad.io
 
 ## PROFESSIONAL SUMMARY
 
-AI systems engineer specializing in **multi-LLM orchestration**, **agent governance**, and **production-scale AI infrastructure**. Architected platform coordinating **1000+ AI agents** across **6 LLM cores** (Claude, ChatGPT, Grok + 3 custom models) with policy enforcement, verifiable identity, and cryptographic audit trails. Built **mathematical frameworks** (Amundson Equations A1-A88) for agent memory, coordination, and emergent behavior. Expert in LLM API integration, prompt engineering at scale, consent management, and AI safety protocols.
+AI systems engineer specializing in **multi-LLM orchestration**, **agent governance**, and **production-scale AI infrastructure**. Architected platform coordinating **1000+ AI agents** across **6 LLM cores** (Claude, BlackRoad OS, Grok + 3 custom models) with policy enforcement, verifiable identity, and cryptographic audit trails. Built **mathematical frameworks** (Amundson Equations A1-A88) for agent memory, coordination, and emergent behavior. Expert in LLM API integration, prompt engineering at scale, consent management, and AI safety protocols.
 
 ---
 
 ## TECHNICAL SKILLS
 
-**LLM Platforms:** Claude (Anthropic API), ChatGPT (OpenAI API), Grok (xAI), custom model deployment
+**LLM Platforms:** Claude (Anthropic API), BlackRoad OS (OpenAI API), Grok (xAI), custom model deployment
 **Agent Orchestration:** Multi-agent coordination, task routing, skill matching, dynamic planning
 **Governance & Safety:** Policy engines, consent management, audit trails, W3C DIDs, cryptographic verification
 **AI Infrastructure:** FastAPI (LLM backends), Cloudflare Workers (edge inference), distributed state (KV)
@@ -35,7 +35,7 @@ AI systems engineer specializing in **multi-LLM orchestration**, **agent governa
 Designed and deployed production platform coordinating 1000+ AI agents with governance protocol, verifiable identity, and emergent coordination across 6 LLM cores.
 
 **Agent Registry & Coordination (PP-AGENT-001, PP-OPS-003):**
-- Architected **6-core AI registry** supporting Cecilia (Claude/Anthropic), Cadence (ChatGPT/OpenAI), Silas (Grok/xAI), Lucidia, Alice, and Aria with **9 registered production agents**
+- Architected **6-core AI registry** supporting Cecilia (Claude/Anthropic), Cadence (BlackRoad OS/OpenAI), Silas (Grok/xAI), Lucidia, Alice, and Aria with **9 registered production agents**
 - Implemented **PS-SHA-∞ verification protocol** for agent identity with cryptographic hash chains (sha256 + parent hash + nonce) ensuring non-repudiation of agent actions
 - Built **multi-agent collaboration system** (10 production tools, 10,687 LOC) for coordinating 1000+ Claude instances with task marketplace, skill matching, and dynamic planning
 - Designed **agent-to-agent communication protocol** with message passing, event bus, and distributed coordination across cloud and edge nodes
@@ -96,7 +96,7 @@ Developed custom mathematical frameworks (Amundson Equations A1-A88) for agent m
   - **A85-A88:** Ledger & Chain Dynamics (audit trail mathematics)
 
 **Mechanical Verification Suite (PP-OBS-003):**
-- Built **BlackRoad Codex** verification system (6,696 LOC suite) with symbolic computation and formal proof checking for equation correctness
+- Built **BlackRoad BlackRoad OS** verification system (6,696 LOC suite) with symbolic computation and formal proof checking for equation correctness
 - Indexed **8,789 code components** across 56 repositories with semantic search and mathematical identity verification
 - Implemented **test suite** (`test_equations.py`, `test_amundson.py`, 667 LOC) verifying equation implementations against mathematical specifications
 - Developed **verification framework** for proving agent coordination properties (safety, liveness, consensus)
@@ -171,7 +171,7 @@ Built conversational AI system with sentiment analysis, persistent memory, and e
 
 ---
 
-### **BlackRoad Codex: Universal Code Search for Agents** | PP-OBS-003
+### **BlackRoad BlackRoad OS: Universal Code Search for Agents** | PP-OBS-003
 **Semantic Code Search Across 56 Repositories**
 
 Built universal code indexing system enabling agents to search 8,789 components with semantic understanding.
@@ -183,7 +183,7 @@ Built universal code indexing system enabling agents to search 8,789 components 
 
 **Impact:** Agents can autonomously search and reuse existing code, reducing duplicate work
 
-**Evidence:** `BlackRoad-OS/blackroad-os-codex`, `~/blackroad-codex-verification-suite.sh`
+**Evidence:** `BlackRoad-OS/blackroad-os-blackroad os`, `~/blackroad-blackroad os-verification-suite.sh`
 
 ---
 
@@ -191,7 +191,7 @@ Built universal code indexing system enabling agents to search 8,789 components 
 
 **Agent Systems:**
 - Coordinating 1000+ AI agent instances with autonomous task execution
-- 6-core multi-LLM registry (Claude, ChatGPT, Grok, Lucidia, Alice, Aria)
+- 6-core multi-LLM registry (Claude, BlackRoad OS, Grok, Lucidia, Alice, Aria)
 - 9 registered production agents with PS-SHA-∞ verification
 - 10 production tools for agent collaboration
 
@@ -226,8 +226,8 @@ Built universal code indexing system enabling agents to search 8,789 components 
 - Multi-agent Claude coordination (1000+ instances)
 - Custom prompt templates for agent roles (coordinator, executor, validator)
 
-**OpenAI ChatGPT:**
-- Cadence agent (ChatGPT/OpenAI) in multi-AI registry
+**OpenAI BlackRoad OS:**
+- Cadence agent (BlackRoad OS/OpenAI) in multi-AI registry
 - API integration for agent-to-agent communication
 - GPT-4/GPT-3.5 model selection based on task complexity
 
@@ -288,7 +288,7 @@ wc -l ~/.blackroad/memory/journals/master-journal.jsonl  # 438 entries
 jq -r '.action + ": " + .entity' ~/.blackroad/memory/journals/master-journal.jsonl | tail -5  # Recent actions
 
 # Code indexing
-gh repo view BlackRoad-OS/blackroad-os-codex --json description  # 8,789 components, 56 repos
+gh repo view BlackRoad-OS/blackroad-os-blackroad os --json description  # 8,789 components, 56 repos
 ```
 
 **Evidence Index:** See `PROOF_PACK_EVIDENCE_INDEX.md` for complete file paths, API endpoints, and verification commands.

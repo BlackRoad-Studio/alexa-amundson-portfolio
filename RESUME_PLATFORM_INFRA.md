@@ -167,7 +167,7 @@ Built comprehensive progress tracking with detailed reporting and export functio
 **Cloud Platforms (Evidence: INFRASTRUCTURE_INVENTORY.md, CLOUDFLARE_INFRA.md):**
 - **Railway:** 12 production projects with full IaC coverage (TOML configs)
 - **Cloudflare:** 8 Pages projects, 8 KV namespaces, 1 D1 database, 1 Tunnel
-- **DigitalOcean:** 1 droplet (codex-infinity, 159.65.43.12) with documented SSH access
+- **DigitalOcean:** 1 droplet (blackroad os-infinity, 159.65.43.12) with documented SSH access
 - **GitHub:** 15 organizations, 80+ repositories with automated CI/CD
 
 **Edge Infrastructure:**

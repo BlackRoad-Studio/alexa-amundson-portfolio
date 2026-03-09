@@ -151,7 +151,7 @@ ls -lh ~/blackroad-agent-registry.sh
 **What works:**
 - Multi-AI agent coordination
 - PS-SHA-∞ cryptographic verification
-- 6-core registry (Claude, ChatGPT, Grok, Lucidia, Alice, Aria)
+- 6-core registry (Claude, BlackRoad OS, Grok, Lucidia, Alice, Aria)
 - W3C DID + Sigstore identity
 
 **Interview demo:**

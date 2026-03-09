@@ -103,7 +103,7 @@ find ~ -maxdepth 1 -name "*.sh" -type f -exec wc -l {} + 2>/dev/null | tail -1
 # Output: 24520 total
 
 # List key scripts
-for script in ~/memory-system.sh ~/blackroad-codex-verification-suite.sh ~/claude-ai-coordinator.sh \
+for script in ~/memory-system.sh ~/blackroad-blackroad os-verification-suite.sh ~/claude-ai-coordinator.sh \
   ~/blackroad-agent-registry.sh ~/memory-task-marketplace.sh ~/deploy-bots-everywhere.sh \
   ~/memory-infinite-todos.sh; do
   if [ -f "$script" ]; then echo "✓ $script"; fi
@@ -115,7 +115,7 @@ done
 - **35,739 source files** in local codebases (verified)
 - **115 shell scripts** in home directory (verified)
 - **24,520 total LOC** in scripts (verified via wc)
-- **Key operator scripts confirmed:** memory-system.sh, blackroad-agent-registry.sh, codex-verification-suite.sh, etc.
+- **Key operator scripts confirmed:** memory-system.sh, blackroad-agent-registry.sh, blackroad os-verification-suite.sh, etc.
 
 **Confidence:** HIGH (direct filesystem access, wc counts)
 
@@ -184,7 +184,7 @@ grep -E "blackroad|lucidia" /tmp/blackroad-os-operator/CLOUDFLARE_INFRA.md | gre
 - **8 Cloudflare KV namespaces** with IDs and purposes (verified)
 - **19+ domains** (blackroad.io, lucidia.earth, subdomains) (verified)
 - **1 Cloudflare Tunnel** for Zero Trust (verified)
-- **1 DigitalOcean droplet** (159.65.43.12, codex-infinity) (verified)
+- **1 DigitalOcean droplet** (159.65.43.12, blackroad os-infinity) (verified)
 
 **Confidence:** HIGH (documented in version-controlled markdown, cross-referenced with commits)
 
@@ -364,11 +364,11 @@ git -C /tmp/blackroad-os-operator log --since="2025-12-01" --format='%h|%an|%ad|
 
 ---
 
-### Section 5: SELECTED PROJECTS - BlackRoad Codex
+### Section 5: SELECTED PROJECTS - BlackRoad BlackRoad OS
 **Claims:**
 - 8,789 components indexed: **VERIFIED** (repo description)
 - 56 repositories: **VERIFIED** (repo description)
-- Verification suite, 6,696 LOC: **VERIFIED** (wc on blackroad-codex-verification-suite.sh)
+- Verification suite, 6,696 LOC: **VERIFIED** (wc on blackroad-blackroad os-verification-suite.sh)
 - Real-time dashboard (15 orgs, 113+ repos): **VERIFIED** (repo description)
 
 **Confidence:** **85/100** (repo descriptions are authoritative but counts not independently verified via database query)

@@ -98,7 +98,7 @@ cat ~/.blackroad/memory/journals/master-journal.jsonl | jq -r 'select(.action=="
 10. cecilia-collab-revolution-cfa7e174
 11. cecilia-collaboration-system-6269a3e4
 12. cecilia-∞-062f9d37
-13. **cadence-deployment-0686df46** (ChatGPT core)
+13. **cadence-deployment-0686df46** (BlackRoad OS core)
 14. **silas-architect-f32ea4a0** (Grok core)
 15. **lucidia-guardian-a1f93114** (Custom AI)
 16. **alice-analyst-70a1e283** (Migration Architect)
@@ -109,7 +109,7 @@ cat ~/.blackroad/memory/journals/master-journal.jsonl | jq -r 'select(.action=="
 
 **Agent distribution by core:**
 - **Cecilia (Claude):** 12 instances
-- **Cadence (ChatGPT):** 1 instance
+- **Cadence (BlackRoad OS):** 1 instance
 - **Silas (Grok):** 1 instance
 - **Lucidia:** 1 instance
 - **Alice:** 2 instances
@@ -176,7 +176,7 @@ Alice website live at alice.blackroad.me
 ```
 [COMPLETE]+[ECOSYSTEM] BlackRoad Fully Operational! 🎉
 - Phase 1: Migrated 14 blackroad repos
-- Phase 2: Migrated 5 codex/lucidia repos
+- Phase 2: Migrated 5 blackroad os/lucidia repos
 - Phase 3: Populated 12 empty orgs with 36 new repos
 - TOTAL: 14/15 orgs active, 113+ repos, 17,681+ files
 - 100% success rate
@@ -479,7 +479,7 @@ cat ~/.blackroad/memory/journals/master-journal.jsonl | jq -r '.action' | sort |
 **Evidence:** wc -l counts on 4 repos + achievement logs
 
 ### For "AI Agent Orchestration" Claims:
-**Use:** "Coordinated **20 AI agents** across **6 LLM cores** (12 Claude instances, ChatGPT, Grok, 3 custom autonomous AIs)"
+**Use:** "Coordinated **20 AI agents** across **6 LLM cores** (12 Claude instances, BlackRoad OS, Grok, 3 custom autonomous AIs)"
 
 **Evidence:** Memory journal agent-registered events + achievement logs
 

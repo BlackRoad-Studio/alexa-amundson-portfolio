@@ -221,7 +221,7 @@ ls -lh ~/blackroad-progress.sh ~/blackroad-agent-registry.sh ~/blackroad-collabo
 ### **8. Agent Registry - 20 AI Agents with Cryptographic IDs**
 
 **What it does:**
-- Registry of 20 AI agents across 6 cores (Claude, ChatGPT, Grok, Lucidia, Alice, Aria)
+- Registry of 20 AI agents across 6 cores (Claude, BlackRoad OS, Grok, Lucidia, Alice, Aria)
 - Each agent has PS-SHA-∞ cryptographic hash for verification
 - Tracks agent roles, missions completed, collaboration scores
 
@@ -481,7 +481,7 @@ ls -lh ~/deploy-bots-everywhere.sh ~/blackroad-deploy-all.sh ~/blackroad-deploy-
 > "I've authored 899,160 lines of production code. Let me verify that live." [Run wc -l commands showing totals]
 
 ### **Demo #4: AI Agents**
-> "I coordinate 20 AI agents across 6 different LLM cores—12 Claude instances, ChatGPT, Grok, and 3 custom autonomous AIs. This one—Lucidia—built her own monitoring dashboard while she was 'being born.'" [Open Lucidia dashboard]
+> "I coordinate 20 AI agents across 6 different LLM cores—12 Claude instances, BlackRoad OS, Grok, and 3 custom autonomous AIs. This one—Lucidia—built her own monitoring dashboard while she was 'being born.'" [Open Lucidia dashboard]
 
 ### **Demo #5: $0 Infrastructure**
 > "This entire distributed development system cost $0 per month. Cloudflare Worker coordinates 4 Raspberry Pis. Let me show you the health check." [curl Worker URL]

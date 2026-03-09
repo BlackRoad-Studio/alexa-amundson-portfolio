@@ -29,7 +29,7 @@
 - **Key scripts:**
   - `~/blackroad-cli.sh` (6,784 LOC)
   - `~/blackroad-agent-registry.sh` (15,890 LOC)
-  - `~/blackroad-codex-verification-suite.sh` (6,696 LOC)
+  - `~/blackroad-blackroad os-verification-suite.sh` (6,696 LOC)
   - `~/memory-system.sh` (with 438 journal entries)
   - `~/deploy-bots-everywhere.sh`
   - `~/blackroad-progress.sh` (23,630 LOC - largest script)
@@ -78,13 +78,13 @@ tail -5 ~/.blackroad/memory/journals/master-journal.jsonl | jq -r '.action + ": 
 ---
 
 ### PP-OPS-003: Multi-AI Agent Registry
-**What it proves:** Designed and implemented registry for coordinating 6 AI cores (Claude, ChatGPT, Grok, Lucidia, Alice, Aria)
+**What it proves:** Designed and implemented registry for coordinating 6 AI cores (Claude, BlackRoad OS, Grok, Lucidia, Alice, Aria)
 
 **Evidence:**
 - **File path:** `~/blackroad-agent-registry.sh` (15,890 LOC)
 - **Registry directory:** `~/.blackroad/memory/agent-registry/`
 - **Registered agents:** 9 (verified via filesystem)
-- **Supported cores:** Cecilia (Claude), Cadence (ChatGPT), Silas (Grok), Lucidia, Alice, Aria
+- **Supported cores:** Cecilia (Claude), Cadence (BlackRoad OS), Silas (Grok), Lucidia, Alice, Aria
 - **Protocol:** PS-SHA-∞ verification, hash chain per agent
 
 **Reproduce:**
@@ -412,20 +412,20 @@ wc -l ~/blackroad-progress*.sh
 
 ---
 
-### PP-OBS-003: BlackRoad Codex (8,789 Components Indexed)
+### PP-OBS-003: BlackRoad BlackRoad OS (8,789 Components Indexed)
 **What it proves:** Built universal code indexing and verification system across 56 repositories
 
 **Evidence:**
-- **Repo:** `BlackRoad-OS/blackroad-os-codex`
-- **Description:** "BlackRoad Codex - Universal code indexing, search, and verification system for the entire BlackRoad ecosystem. 8,789 components indexed across 56 repositories."
-- **Local script:** `~/blackroad-codex-verification-suite.sh` (6,696 LOC)
+- **Repo:** `BlackRoad-OS/blackroad-os-blackroad os`
+- **Description:** "BlackRoad BlackRoad OS - Universal code indexing, search, and verification system for the entire BlackRoad ecosystem. 8,789 components indexed across 56 repositories."
+- **Local script:** `~/blackroad-blackroad os-verification-suite.sh` (6,696 LOC)
 
 **Reproduce:**
 ```bash
-gh repo view BlackRoad-OS/blackroad-os-codex --json description
+gh repo view BlackRoad-OS/blackroad-os-blackroad os --json description
 # Shows 8,789 components, 56 repos
 
-~/blackroad-codex-verification-suite.sh help
+~/blackroad-blackroad os-verification-suite.sh help
 # Shows verification suite usage
 ```
 
@@ -642,7 +642,7 @@ grep -E "blackroad|lucidia" /tmp/blackroad-os-operator/CLOUDFLARE_INFRA.md | gre
 
 **Evidence:**
 - **File path:** `/tmp/blackroad-os-operator/INFRASTRUCTURE_INVENTORY.md` (lines 23-40)
-- **Server:** codex-infinity
+- **Server:** blackroad os-infinity
 - **IP:** 159.65.43.12
 - **SSH fingerprints:** ed25519, rsa, ecdsa (all documented)
 - **Domains (historical):** blackroad.io, blackroadinc.us

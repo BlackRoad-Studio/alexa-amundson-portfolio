@@ -15,7 +15,7 @@
 - **35,739 source files** in local codebases (Python, TypeScript, JavaScript, Shell)
 - **115 operator/automation scripts** in home directory (~24,520 LOC total)
 - **438 memory system journal entries** (PS-SHA-∞ hash chain)
-- **9 registered AI agents** (Cecilia/Claude, Cadence/ChatGPT, Silas/Grok, Lucidia, Alice, Aria)
+- **9 registered AI agents** (Cecilia/Claude, Cadence/BlackRoad OS, Silas/Grok, Lucidia, Alice, Aria)
 - **269 commits** in blackroad-os-operator alone (primary author: Alexa Amundson/Alexa Louise)
 
 ---
@@ -86,10 +86,10 @@
 
 ---
 
-#### 7. **blackroad-os-codex** (Universal Code Index)
+#### 7. **blackroad-os-blackroad os** (Universal Code Index)
 - **Updated:** 2025-12-24
-- **Description:** "BlackRoad Codex - Universal code indexing, search, and verification system for the entire BlackRoad ecosystem. 8,789 components indexed across 56 repositories."
-- **Evidence:** 8,789 components (stated), verification suite at `~/blackroad-codex-verification-suite.sh`
+- **Description:** "BlackRoad BlackRoad OS - Universal code indexing, search, and verification system for the entire BlackRoad ecosystem. 8,789 components indexed across 56 repositories."
+- **Evidence:** 8,789 components (stated), verification suite at `~/blackroad-blackroad os-verification-suite.sh`
 
 ---
 
@@ -113,7 +113,7 @@
 - **Key scripts:**
   - `memory-system.sh` (438 entries in journal, PS-SHA-∞ chain)
   - `blackroad-agent-registry.sh` (15,890 LOC) - Multi-AI agent registry
-  - `blackroad-codex-verification-suite.sh` (6,696 LOC) - Verification framework
+  - `blackroad-blackroad os-verification-suite.sh` (6,696 LOC) - Verification framework
   - `blackroad-cli.sh` (6,784 LOC)
   - `claude-ai-coordinator.sh` (914 LOC) - Task routing
   - `memory-task-marketplace.sh` - Task coordination
@@ -180,7 +180,7 @@ Evidence: `~/blackroad-agent-registry.sh`, `~/.blackroad/memory/agent-registry/`
 
 Supports 6 AI cores:
 - Cecilia (Claude/Anthropic) 💎
-- Cadence (ChatGPT/OpenAI) 🎵
+- Cadence (BlackRoad OS/OpenAI) 🎵
 - Silas (Grok/xAI) ⚡
 - Lucidia ✨
 - Alice 🔮
@@ -194,7 +194,7 @@ Evidence: `INFRASTRUCTURE_INVENTORY.md`, `CLOUDFLARE_INFRA.md`
 **Cloud:**
 - **Railway:** 12+ projects (blackroad-os-core, operator, API, docs, Prism, web, Lucidia)
 - **Cloudflare:** 8 Pages projects, 8 KV namespaces, 1 D1 database, 1 Tunnel
-- **DigitalOcean:** 1 droplet (159.65.43.12, codex-infinity)
+- **DigitalOcean:** 1 droplet (159.65.43.12, blackroad os-infinity)
 - **GitHub:** 15 orgs, 80+ repos
 
 **Edge/Local:**

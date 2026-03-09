@@ -218,7 +218,7 @@ This resume package contains **comprehensive analysis** built from deep-dive of 
 **Target role:** AI/ML Engineer, LLM Infrastructure, Agent Systems
 **Focus:** LLM orchestration, agent coordination, AI safety
 **Highlights:**
-- 6-core multi-LLM registry (Claude, ChatGPT, Grok, custom)
+- 6-core multi-LLM registry (Claude, BlackRoad OS, Grok, custom)
 - 88 equations for agent memory & coordination
 - W3C DID + Sigstore identity system
 - Policy engine with zero violations
@@ -273,7 +273,7 @@ This resume package contains **comprehensive analysis** built from deep-dive of 
 ✅ 115 operator scripts, 24,520 lines of code
 ✅ 269 commits to primary operator repo (all authored by you)
 ✅ 63,726 LOC in operator repo (Python + TypeScript)
-✅ 6-core multi-AI registry (Claude, ChatGPT, Grok, Lucidia, Alice, Aria)
+✅ 6-core multi-AI registry (Claude, BlackRoad OS, Grok, Lucidia, Alice, Aria)
 ✅ 9 registered production agents
 ✅ 88 Amundson Equations (6,582 LOC TypeScript)
 ✅ Light Trinity system (429 emojis, 15 lifecycle states)

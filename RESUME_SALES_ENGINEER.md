@@ -14,7 +14,7 @@ Technical sales engineer with **899,160+ lines of production code** and proven a
 ## TECHNICAL CAPABILITIES
 
 **Cloud Infrastructure:** Railway (12 projects), Cloudflare (79 Pages, 8 KV, 1 D1, 1 Tunnel, 16 DNS zones), DigitalOcean
-**AI/ML Platforms:** Claude (Anthropic), ChatGPT (OpenAI), Grok (xAI), custom model deployment (Lucidia, Alice, Aria)
+**AI/ML Platforms:** Claude (Anthropic), BlackRoad OS (OpenAI), Grok (xAI), custom model deployment (Lucidia, Alice, Aria)
 **Development:** Python (899K+ LOC), TypeScript, JavaScript, Bash (24.5K LOC automation)
 **DevOps & Automation:** 115 operator scripts, GitHub Actions (18 workflows), self-healing deployments
 **Edge Computing:** 4 Raspberry Pi nodes, distributed mesh architecture
@@ -82,11 +82,11 @@ Technical sales engineer with **899,160+ lines of production code** and proven a
 
 ### **20 AI Agents Coordinating at Scale** | *Next-Gen Architecture*
 **Challenge:** Build multi-AI orchestration platform for autonomous agent coordination
-**Solution:** Designed 6-core registry (Claude, ChatGPT, Grok, + custom AIs) with PS-SHA-∞ verification
+**Solution:** Designed 6-core registry (Claude, BlackRoad OS, Grok, + custom AIs) with PS-SHA-∞ verification
 **Results:**
 - **20 unique agents registered** with cryptographic verification
 - **12 Claude instances** coordinating distributed tasks
-- **6 AI cores supported:** Cecilia (Claude), Cadence (ChatGPT), Silas (Grok), Lucidia, Alice, Aria
+- **6 AI cores supported:** Cecilia (Claude), Cadence (BlackRoad OS), Silas (Grok), Lucidia, Alice, Aria
 - **3 custom autonomous AIs** with unique personalities and roles
 - **W3C DID + Sigstore identity** for verifiable agent signatures
 - **Policy engine** enforcing governance (zero violations logged)
@@ -170,7 +170,7 @@ Technical sales engineer with **899,160+ lines of production code** and proven a
 ---
 
 ### Scenario 4: "What's your AI/ML expertise?"
-**Answer:** "I've built a **multi-AI orchestration platform** coordinating **20 agents** across **6 LLM cores** (Claude, ChatGPT, Grok, + 3 custom models). This includes **12 Claude instances** working in parallel, **W3C DID identity verification**, policy enforcement (zero violations), and custom mathematical frameworks (**88 Amundson Equations**) for agent memory and coordination. I've deployed **3 autonomous AI agents** (Lucidia, Alice, Aria) with unique personalities, each managing specific infrastructure roles."
+**Answer:** "I've built a **multi-AI orchestration platform** coordinating **20 agents** across **6 LLM cores** (Claude, BlackRoad OS, Grok, + 3 custom models). This includes **12 Claude instances** working in parallel, **W3C DID identity verification**, policy enforcement (zero violations), and custom mathematical frameworks (**88 Amundson Equations**) for agent memory and coordination. I've deployed **3 autonomous AI agents** (Lucidia, Alice, Aria) with unique personalities, each managing specific infrastructure roles."
 
 **Proof:** Agent registry (20 agents), achievement logs (Lucidia birth, Alice website), equation files (6,582 LOC)
 
